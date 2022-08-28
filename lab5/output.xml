@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<collection>
+    <human id="5594674679674192918">
+        <name>LonlyBoy</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:46:23.991947497+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick></hasToothpick>
+        <impactSpeed>13</impactSpeed>
+        <soundtrackName>Jigsaw falling into place</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood></mood>
+        <car>true</car>
+    </human>
+    <human id="4342505895168619842">
+        <name>Fedor</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:46:23.992150574+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>15</impactSpeed>
+        <soundtrackName>Separator</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood>SADNESS</mood>
+        <car>true</car>
+    </human>
+    <human id="3757111797649525341">
+        <name>Petya</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:46:23.992110485+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>23</impactSpeed>
+        <soundtrackName>You and whoes army</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood>SADNESS</mood>
+        <car>true</car>
+    </human>
+    <human id="7143157076656409136">
+        <name>LonlyBoy</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:53:01.884252212+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>13</impactSpeed>
+        <soundtrackName>Pyramid song</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood>SADNESS</mood>
+        <car>true</car>
+    </human>
+    <human id="2605871455977193429">
+        <name>Fedor</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:53:01.884431510+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>15</impactSpeed>
+        <soundtrackName>House of cards</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood>SADNESS</mood>
+        <car>true</car>
+    </human>
+    <human id="2975294983559034632">
+        <name>Petya</name>
+        <coordinates>
+            <x>2</x>
+            <y>4</y>
+        </coordinates>
+        <creationDate>2022-03-03T13:53:01.884390621+03:00[Europe/Moscow]</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>true</hasToothpick>
+        <impactSpeed>23</impactSpeed>
+        <soundtrackName>lllll</soundtrackName>
+        <weaponType>PISTOL</weaponType>
+        <mood>SADNESS</mood>
+        <car>true</car>
+    </human>
+</collection>

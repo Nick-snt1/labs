@@ -1,0 +1,132 @@
+May 02, 2022 9:39:17 PM src.run.Main main
+INFO: Server started
+May 02, 2022 9:39:17 PM src.core.model.handlers.XMLHandler readXML
+INFO: Method readXML started with fileName output.xml
+May 02, 2022 9:39:17 PM src.core.model.handlers.CollectionHandler <init>
+INFO: New CollectionHandler created at 2022-05-02T21:39:17.142258142
+May 02, 2022 9:39:17 PM src.core.model.handlers.CommandHandler <init>
+INFO: New CommandHandler was created
+May 02, 2022 9:39:17 PM src.core.controller.SaveThread <init>
+INFO: New SaveThread created
+May 02, 2022 9:39:17 PM src.core.controller.SaveThread run
+INFO: SaveThread is running
+May 02, 2022 9:39:17 PM src.core.controller.AcceptConnection <init>
+INFO: New AcceptConnection created
+May 02, 2022 9:39:17 PM src.core.view.SendRespond <init>
+INFO: New SendRespond created
+May 02, 2022 9:39:17 PM src.core.controller.AcceptConnection receiveData
+INFO: Method receiveData executed
+May 02, 2022 9:39:21 PM src.core.controller.AcceptConnection establishConnection
+INFO: Data received
+May 02, 2022 9:39:21 PM src.core.controller.AcceptConnection establishConnection
+INFO: Empty respond sent
+May 02, 2022 9:39:21 PM src.core.controller.AcceptConnection establishConnection
+INFO: Method establishConnection executed
+May 02, 2022 9:39:21 PM src.core.controller.AcceptConnection getObject
+INFO: Object taken out from inner buffer
+May 02, 2022 9:39:21 PM src.core.controller.DTOConverter <init>
+INFO: New DTOConverter created
+May 02, 2022 9:39:21 PM src.core.controller.DTOConverter parseHumanBeing
+INFO: Method parseHumanBeing executed
+May 02, 2022 9:39:21 PM src.core.model.handlers.CommandHandler switchCommand
+INFO: Method switchCommand executed with command help, arg null
+May 02, 2022 9:39:21 PM src.core.model.handlers.CollectionHandler help
+INFO: Command help executed
+May 02, 2022 9:39:21 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:21 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:21 PM src.core.view.SendRespond send
+INFO: Size of respond send to the client (1,339)
+May 02, 2022 9:39:21 PM src.core.view.SendRespond send
+INFO: Respond send to the client
+May 02, 2022 9:39:21 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:21 PM src.core.view.SendRespond bigDataSend
+INFO: 1 packet send to the client
+May 02, 2022 9:39:21 PM src.core.view.SendRespond send
+INFO: Method send executed
+May 02, 2022 9:39:21 PM src.core.controller.AcceptConnection receiveData
+INFO: Method receiveData executed
+May 02, 2022 9:39:24 PM src.core.controller.AcceptConnection establishConnection
+INFO: Data received
+May 02, 2022 9:39:24 PM src.core.controller.AcceptConnection establishConnection
+INFO: Empty respond sent
+May 02, 2022 9:39:24 PM src.core.controller.AcceptConnection establishConnection
+INFO: Method establishConnection executed
+May 02, 2022 9:39:24 PM src.core.controller.AcceptConnection getObject
+INFO: Object taken out from inner buffer
+May 02, 2022 9:39:24 PM src.core.controller.DTOConverter <init>
+INFO: New DTOConverter created
+May 02, 2022 9:39:24 PM src.core.controller.DTOConverter parseHumanBeing
+INFO: Method parseHumanBeing executed
+May 02, 2022 9:39:24 PM src.core.model.handlers.CommandHandler switchCommand
+INFO: Method switchCommand executed with command info, arg null
+May 02, 2022 9:39:24 PM src.core.model.handlers.CollectionHandler info
+INFO: Command info executed
+May 02, 2022 9:39:24 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:24 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:24 PM src.core.view.SendRespond send
+INFO: Size of respond send to the client (427)
+May 02, 2022 9:39:24 PM src.core.view.SendRespond send
+INFO: Respond send to the client
+May 02, 2022 9:39:24 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:24 PM src.core.view.SendRespond bigDataSend
+INFO: 1 packet send to the client
+May 02, 2022 9:39:24 PM src.core.view.SendRespond send
+INFO: Method send executed
+May 02, 2022 9:39:24 PM src.core.controller.AcceptConnection receiveData
+INFO: Method receiveData executed
+May 02, 2022 9:39:27 PM src.core.controller.AcceptConnection establishConnection
+INFO: Data received
+May 02, 2022 9:39:27 PM src.core.controller.AcceptConnection establishConnection
+INFO: Empty respond sent
+May 02, 2022 9:39:27 PM src.core.controller.AcceptConnection establishConnection
+INFO: Method establishConnection executed
+May 02, 2022 9:39:27 PM src.core.controller.AcceptConnection getObject
+INFO: Object taken out from inner buffer
+May 02, 2022 9:39:27 PM src.core.controller.DTOConverter <init>
+INFO: New DTOConverter created
+May 02, 2022 9:39:27 PM src.core.controller.DTOConverter parseHumanBeing
+INFO: Method parseHumanBeing executed
+May 02, 2022 9:39:27 PM src.core.model.handlers.CommandHandler switchCommand
+INFO: Method switchCommand executed with command show, arg null
+May 02, 2022 9:39:27 PM src.core.model.handlers.CollectionHandler show
+INFO: Command show executed
+May 02, 2022 9:39:27 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:27 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:27 PM src.core.view.SendRespond send
+INFO: Size of respond send to the client (1,334)
+May 02, 2022 9:39:27 PM src.core.view.SendRespond send
+INFO: Respond send to the client
+May 02, 2022 9:39:27 PM src.core.view.SendRespond objectToBytes
+INFO: Object were transfered to bytes
+May 02, 2022 9:39:27 PM src.core.view.SendRespond bigDataSend
+INFO: 1 packet send to the client
+May 02, 2022 9:39:27 PM src.core.view.SendRespond send
+INFO: Method send executed
+May 02, 2022 9:39:27 PM src.core.controller.AcceptConnection receiveData
+INFO: Method receiveData executed
+May 02, 2022 9:39:41 PM src.core.controller.SaveThread run
+INFO: Connection terminated
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler reWriteXMLNew
+INFO: Method reWriteXMLNew executed with fileName output.xml
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler XMLToString
+INFO: Method XMLToString executed with fileName output.xml
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler collectionToString
+INFO: Method collectionToString executed
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler writeCollection
+INFO: Method writeCollection executed
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler prettyFormat
+INFO: Method prettyFormat executed
+May 02, 2022 9:39:41 PM src.core.model.handlers.XMLHandler writeStringToFile
+INFO: Method writeStringToFile executed with fileName output.xml
+May 02, 2022 9:39:41 PM src.core.model.handlers.CollectionHandler save
+INFO: Command save executed
+May 02, 2022 9:39:41 PM src.core.controller.SaveThread run
+INFO: Programm terminated
