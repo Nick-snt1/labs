@@ -104,8 +104,8 @@ public class VisualPanel extends JPanel {
         new LinkedList<>(mapNew.values()).stream().forEach(x -> {
             for (int i = 0; i < x.getTabCount(); i++)
                 if (((Animation) x.getComponentAt(i)).getId().equals(id) ) {
-                    x.remove(i);
                     ((Animation) x.getComponentAt(i)).stopTimer();
+                    x.remove(i);
                 }
 
 
