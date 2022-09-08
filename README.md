@@ -1,6 +1,6 @@
 # Programming
 
-Labs I completed while studying at ITMO University
+Labs I completed while studying at ITMO University in the first year
 - [Lab 1](/lab1) `Java`
 - [Lab 2](/lab2) `Java`
 - [Lab 3](/lab3) `Java`
